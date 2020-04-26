@@ -1,0 +1,23 @@
+{
+  "name": "lerna_package_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvcj/lerna_package_4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvcj/lerna_package_4/issues"
+  },
+  "homepage": "https://github.com/lvcj/lerna_package_4#readme",
+  "dependencies": {
+    "react-dom": "^16.13.1"
+  }
+}
